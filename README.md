@@ -1,6 +1,6 @@
-# React + Vite
+# 🏍️ Ridr - Motorcycle Odometer Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application for tracking your motorcycle rides and odometer readings. Built with React + Vite for a fast and modern development experience.
 
 Currently, two official plugins are available:
 
